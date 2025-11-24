@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ModernRadialMenu",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Iraj MH Aurelion",
+	"CreatedByURL": "https://Aurelion.net",
+	"DocsURL": "https://irajsb.github.io/UMGPluginDocs/",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/7f74b5dee5dd430b81373cf7b38636f9",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ModernRadialMenu",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Linux",
+				"Android"
+			]
+		}
+	]
+}
